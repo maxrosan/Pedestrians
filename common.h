@@ -30,7 +30,7 @@
 #define DEBUG_THREAD 0
 #define N_THREADS 8
 #define FACTOR 200
-#define FACTOR_VERIFY "1.e20"
+#define FACTOR_VERIFY "1.e30"
 #define MAX_SIZE 341.0
 #define THRESH_TRAIN 130.f
 #define THRESH_CLASS 90.f
