@@ -1,6 +1,5 @@
 
 #include "functions.h"
-#include "kp.h"
 
 mpf_class *sumPositive, *sumSqPositive, *sumNegative, *sumSqNegative;
 unsigned int numberOfPositive = 0, numberOfNegatives = 0;
